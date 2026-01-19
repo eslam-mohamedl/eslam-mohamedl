@@ -38,7 +38,7 @@ df
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,ps,firebase,js,jquery,nextjs,postman,react,sass,github,tailwind,redux,docker,git,vite,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ps,firebase,js,jquery,nextjs,postman,react,sass,github,tailwind,redux,docker,git,vite,typescript,figma&theme=light,java" />
   </a>
 </p>
 
