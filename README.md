@@ -16,7 +16,7 @@ df
 🚀 What I Do
 - Frontend: React.js, Next.js, Typescript, Tailwind CSS.
 - UI/UX : Figma , UI , UX
-- Project Management: Agile methodologies - Jira,ClickUp - Notion.
+- Project Management: Agile methodologies - ClickUp - Notion.
 
 ##
 🛠️ Skills
@@ -25,7 +25,6 @@ df
 - State Management : Redux Toolkit - Zustand
 - Styling & UI Systems : Tailwind CSS - Shadcn/UI - Material UI
 - Forms & Validation : React Hook Form - Zod
-- Authentication & Authorization : Firebase Auth - NextAuth.js
 -  APIs & Backend Integration :Axios, Fetch API , React Query
 ##
 <h3 align="left">Connect with me:</h3>
