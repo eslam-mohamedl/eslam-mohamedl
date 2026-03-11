@@ -23,7 +23,7 @@ df
 - Core Frontend : HTML5 - CSS3 - JavaScript (ES6+) - TypeScript
 - Frameworks & Libraries : React.js - Next.js
 - State Management : Redux Toolkit - Zustand
-- Styling & UI Systems : Tailwind CSS - Shadcn/UI - Material UI
+- Styling & UI Systems : Tailwind CSS - Shadcn/UI 
 - Forms & Validation : React Hook Form - Zod
 -  APIs & Backend Integration :Axios, Fetch API , React Query
 ##
