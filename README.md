@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eslam Abo Elsoud </h1>
 <h3 align="center">frontend Developer 💻 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam-mohamedl&label=Profile%20views&color=0e75b6&style=flat" alt="eslam-mohamedl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam-mohamedl&label=Profile%20views&color=0e75b6&style=flat" alt="eslam-mohamedl"/> </p>
 
 - 👩‍💻 I have a Front-end Developer & UI/UX Designer.
 - 🏛️  I have a bachelor degree in communication engineering
